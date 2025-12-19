@@ -1,8 +1,10 @@
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/84964287-492a-4e76-9c04-d6043d06a4f1" />
 
-![Uploading image.png…]()
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/933c28b6-1491-4efe-9d14-2690195a6667" />
 
-![Uploading image.png…]()
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/26561dec-c4ed-4374-9d6b-9e34a1beb736" />
+
+
 
 
 🎓  School Assistant (EmoBot)
